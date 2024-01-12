@@ -1,0 +1,23 @@
+{
+    "name":"last project",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
+    "website":"website",
+    "twitter":"twitter",
+    "discord":"discord",
+    "rpc":"https://sei-testnet-2-rpc.brocha.in:443",
+    "network":"atlantic-2", 
+    "collection_address":"sei1lf3s2svw57tzecxzwskll4a9mwnyqpeze8y2qrrq0at3266w6a4szrp05f", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
